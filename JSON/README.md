@@ -31,9 +31,3 @@
 
 ## 参考サイト
   [JSON入門](http://www.tohoho-web.com/ex/json.html)
-
-## おまけ
-|サーバー|概要|
-|:-:|:-:|
-|Webサーバー|アクセスするとHTMLを返すサーバー|
-|APIサーバー|アクセスするとJSONを返すサーバー|
